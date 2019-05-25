@@ -1,0 +1,11 @@
+<resources>
+    <string name="widget_name">Calendar_timer</string>
+    <string name="date">Date</string>
+    <string name="red">Red</string>
+    <string name="green">Green</string>
+    <string name="blue">Blue</string>
+    <string name="config">Config</string>
+    <string name="count">Count</string>
+    <string name="update">Update</string>
+    <string name="ok">OK</string>
+</resources>
